@@ -1,9 +1,10 @@
-08: 00 (Better than lyingxd) Me despierto
+08: 00 Me despierto
 09: 00 Desayuno
-10: 00 juego un rato
-11: 00 Estudio
+10: 00 Vuelo hasta Africa
+11: 00 Estudio su fauna
+11: 30 Vuelvo a casa para el almuerzo
 12: 00 Almuerzo
-12: 45 Estudio algo más
+12: 45 Estudio en el techo de mi casa (Por la bonita vista)
 01: 00 Veo videos/juego
 03: 00 Trato de leer un libro
 04: 00 Paso tiempo con mi familia
