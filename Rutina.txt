@@ -8,10 +8,10 @@
 01: 00 Veo videos/juego
 03: 00 Vuelo al caribe para pasar un rato en la playa
 04: 00 Vuelvo a casa con fruta para mi familia
-05: 00 Hago ejercicio
-07: 00 Ceno
+05: 00 Vuelo a Russia y hago ejercicio en la nieve
+07: 00 Vuelvo a casa para cenar
 07: 45 Juego un rato y respondo mensajes
 08: 00 Estudio
 09: 00 Veo videos
-10: 00 Leo otra vez
+10: 00 Leo un rato
 11: 00 me duermo 
