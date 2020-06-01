@@ -6,7 +6,7 @@
 12: 00 Almuerzo
 12: 45 Estudio en el techo de mi casa (Por la bonita vista)
 01: 00 Veo videos/juego
-03: 00 Trato de leer un libro
+03: 00 Vuelo al caribe para pasar un rato en la playa
 04: 00 Paso tiempo con mi familia
 05: 00 Hago ejercicio
 07: 00 Ceno
