@@ -1,4 +1,6 @@
 08: 00 (Better than lyingxd) Me despierto
 09: 00 Desayuno
 10: 00 juego un rato
-
+11: 00 Estudio
+12: 00 Almuerzo
+12: 45 Estudio algo más
