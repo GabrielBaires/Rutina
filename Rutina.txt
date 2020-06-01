@@ -10,6 +10,7 @@
 04: 00 Vuelvo a casa con fruta para mi familia
 05: 00 Vuelo a Russia y hago ejercicio en la nieve
 07: 00 Vuelvo a casa para cenar
+07: 20 Ceno
 07: 45 Juego un rato y respondo mensajes
 08: 00 Estudio
 09: 00 Veo videos
