@@ -1,0 +1,26 @@
+Inicio
+Levantarme de donde estoy
+Ir a la cocina
+Tomar un escoba y la pala
+Ir al lugar donde quiero barrer
+Tomar la escoba
+Juntar toda la basura en un lugar
+Tomar la pala
+Recoger la basura con la pala
+Llevar la basura a un basurero
+Depositarla en el basurero (SI esta lleno, sacar la basura)
+Regresar la escoba y la pala a sus respectivos puestos
+Tomar un trapeador
+Ir al lugar donde quiero trapear
+Tomar el trapeador
+Pasar el trapeador
+Regresar el trapeador a su puesto
+Ir al lavadero
+Ver si hay platos sucios (Si no, no lavar)
+Encender el chorro
+Tomar el Plato
+Tomar el jabón
+Lavar el plato
+Secar el plato
+Guardar el plato
+Fin
