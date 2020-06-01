@@ -14,5 +14,5 @@
 07: 45 Juego un rato y respondo mensajes
 08: 00 Estudio
 09: 00 Veo videos
-10: 00 Leo un rato
+10: 00 Leo otra vez
 11: 00 me duermo 
