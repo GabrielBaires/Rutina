@@ -4,3 +4,5 @@
 11: 00 Estudio
 12: 00 Almuerzo
 12: 45 Estudio algo más
+01: 00 Veo videos/juego
+03: 00 Trato de leer un libro
